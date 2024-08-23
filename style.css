@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+section {
+    display: flex;
+}
+
+.sugeridos {
+    display: flex;
+}
+
+.lado-direito {
+    padding-left: 20px;
+}
+
+.descricoes {
+    padding-left: 10px;
+}
